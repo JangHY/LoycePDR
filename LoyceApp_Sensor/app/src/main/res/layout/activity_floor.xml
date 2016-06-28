@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="center"
+    tools:context="com.example.hyon.loyce.FloorActivity">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="지하 1층"
+        android:id="@+id/floorB1"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="1층"
+        android:id="@+id/floor1"
+        android:layout_marginTop="5dp"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:clickable="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="2층"
+        android:id="@+id/floor2"
+        android:layout_marginTop="5dp"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:text="3층"
+        android:id="@+id/floor3"
+        android:layout_marginTop="5dp"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="4층"
+        android:id="@+id/floor4"
+        android:layout_marginTop="5dp"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:clickable="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="5층"
+        android:id="@+id/floor5"
+        android:layout_marginTop="5dp"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:clickable="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="6층"
+        android:id="@+id/floor6"
+        android:layout_marginTop="5dp"
+        android:layout_height="60dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:clickable="true" />
+</LinearLayout>
