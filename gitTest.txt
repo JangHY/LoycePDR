@@ -1,1 +1,4 @@
 2016.06.26 로이스어플 코드 추가
+OrientationSensor : 3가지 센서값 출력
+Loyce : Loyce 어플
+SensorTest : 아무것도 없는 어플
